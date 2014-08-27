@@ -5,9 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
-<h1>1212</h1>
-<h1>1212</h1>
-<h1>1333</h1>
+hello world
 </head>
 <body>
 <p>
